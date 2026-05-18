@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text('MealApp', style: TextStyle(fontWeight: FontWeight.bold)),
+            const Text('Responsi', style: TextStyle(fontWeight: FontWeight.bold)),
             Text(
               'Halo, ${widget.username}',
               style: const TextStyle(fontSize: 12, color: Colors.white70),
